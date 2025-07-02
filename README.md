@@ -2,6 +2,15 @@
 
 Uma aplicação mobile inspirada no design do Notion, desenvolvida com React Native e Expo Router. Este projeto demonstra uma interface moderna e elegante com tema escuro e navegação por tabs.
 
+## 📱 Preview
+
+<p align="center">
+  <img src="./assets/images/Screenshot_1751455080.png" alt="NotionUI Preview" width="300"/>
+</p>
+
+
+> Interface principal do NotionUI mostrando a tela inicial com cards de projetos recentes e navegação por tabs
+
 ## 🎯 Características
 
 - ✨ Interface inspirada no Notion
